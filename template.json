@@ -1,0 +1,7 @@
+{
+  "name": "Solid JS Wails template",
+  "shortname": "wails-solid-template",
+  "author": "sidwebworks",
+  "description": "A simple starter template for using Solid JS with Wails",
+  "helpurl": "https://github.com/sidwebworks"
+}

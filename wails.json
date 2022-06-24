@@ -1,0 +1,10 @@
+{
+  "name": "Wails solid js template",
+  "outputfilename": "solid-wails",
+  "frontend:install": "pnpm install",
+  "frontend:build": "pnpm build",
+  "author": {
+    "name": "Sidwebworks",
+    "email": "xodedeveloper@gmail.com"
+  }
+}
