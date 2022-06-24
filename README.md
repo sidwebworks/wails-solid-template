@@ -21,7 +21,8 @@ pnpm build
 then cd back into the root level of the project and run `wails dev`
   
 You should see something like this,
-![Uploading image.png…]()
+
+![Uploading image.png…](Wails template demo image)
 
 ## Building
 
