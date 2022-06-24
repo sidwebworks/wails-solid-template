@@ -3,6 +3,7 @@
   "outputfilename": "solid-wails",
   "frontend:install": "pnpm install",
   "frontend:build": "pnpm build",
+  "frontend:dev:watcher": "pnpm dev",
   "author": {
     "name": "Sidwebworks",
     "email": "xodedeveloper@gmail.com"
