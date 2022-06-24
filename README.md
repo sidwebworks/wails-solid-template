@@ -22,7 +22,7 @@ then cd back into the root level of the project and run `wails dev`
   
 You should see something like this,
 
-[![Uploading image.png…](Wails template demo image)](https://user-images.githubusercontent.com/58144379/175643391-3d9e6488-d0c7-4f02-b330-bbc7ae225935.png)
+![Wails demo image](https://user-images.githubusercontent.com/58144379/175643391-3d9e6488-d0c7-4f02-b330-bbc7ae225935.png)
 
 ## Building
 
