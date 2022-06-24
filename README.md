@@ -1,14 +1,27 @@
 # Solid JS Wails
 
-## About
-
 Wails Solid JS starter template
 
-## Live Development
+## Usage
 
-To run in live development mode, run `wails dev` in the project directory. In another terminal, go into the `frontend`
-directory and run `pnpm run dev`. The frontend dev server will run on http://localhost:34115. Connect to this in your
-browser and connect to your application.
+1. Create a new wails project using this template by running
+```sh
+wails create -n my-solid-app -t https://github.com/sidwebworks/wails-solid-template.git
+```
+
+2. Before running `wails dev` command, you first need to install the frontend dependencies and generate the `frontend/dist` directory by running
+```sh
+cd frontend && pnpm install
+```
+
+```sh
+pnpm build
+```
+
+then cd back into the root level of the project and run `wails dev`
+  
+You should see something like this,
+![Uploading image.png…]()
 
 ## Building
 
